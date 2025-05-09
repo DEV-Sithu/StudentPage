@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 20,
+    "grades": {
+      "math": 85,
+      "science": 90,
+      "history": 78
+    },
+    "enrolled": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 22,
+    "grades": {
+      "math": 92,
+      "science": 88,
+      "history": 81
+    },
+    "enrolled": true
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "age": 19,
+    "grades": {
+      "math": 76,
+      "science": 85,
+      "history": 89
+    },
+    "enrolled": false
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "age": 21,
+    "grades": {
+      "math": 89,
+      "science": 91,
+      "history": 84
+    },
+    "enrolled": true
+  }
+]
